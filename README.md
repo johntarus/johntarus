@@ -8,5 +8,11 @@
 - 📫 How to reach me: [Twitter - @tarusjohn_](https://twitter.com/home) ,  [LinkedIn - johntarus](https://www.linkedin.com/feed/) ,  [Reddit - johntarus](https://www.reddit.com/)
 - 😄 Pronouns: He/ His
 - ⚡ Fun fact: I'm into blogging
-[![John github stats](https://github-readme-stats.vercel.app/api?username=johntarus)](https://github.com/johntarus/github-readme-stats)
+
+
+
+  
+  
+  [![John github stats](https://github-readme-stats.vercel.app/api?username=johntarus&bg_color=191919)](https://github.com/johntarus/github-readme-stats)
+
 
