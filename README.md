@@ -1,4 +1,4 @@
-### Hi 👋, I'm John!
+<h1 align="center">Hi 👋, I'm John</h1>
 
 - 🔭 I’m currently working on realtor
 - 🌱 I’m currently learning NextJs
