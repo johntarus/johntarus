@@ -10,8 +10,8 @@
 - ⚡ Fun fact: I'm into blogging
 
 
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=johntarus&show_icons=true&locale=en&count_private=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="johntarus" />
   
   
-  ![John github stats](https://github-readme-stats.vercel.app/api?username=johntarus&&show_icons=true&count_private=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919)
+ 
 
