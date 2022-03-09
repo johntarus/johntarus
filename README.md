@@ -1,4 +1,4 @@
-### Hi I'm John! 👋
+### Hi 👋, I'm John!
 
 - 🔭 I’m currently working on realtor
 - 🌱 I’m currently learning NextJs
