@@ -1,5 +1,4 @@
 <!--socials start-->
-<p align ="center">Let's Connect</p>
 <p align='center'>
 <a href="https://www.reddit.com/user/0702347413/"><img height="30" src="https://img.icons8.com/nolan/344/reddit.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/tarusjohn_"><img height="30" src="https://img.icons8.com/nolan/344/1A6DFF/C822FF/twitter-squared.png"></a>&nbsp;&nbsp;
