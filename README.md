@@ -14,6 +14,10 @@
 
 ------
 
+### 📝 Check out my latest articles!
+- [Understanding "this" keyword in JavaScript](https://tarus.hashnode.dev/understanding-this-keyword-in-javascript)
+- [useState Hook Explained](https://tarus.hashnode.dev/usestate-hook-explained)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=johntarus&show_icons=true&locale=en&count_private=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="johntarus" />
   
   
