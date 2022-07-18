@@ -24,7 +24,7 @@ I'm eager to join a creative, problem solving team. I am really passionate about
 - [useState Hook Explained](https://tarus.hashnode.dev/usestate-hook-explained)
 
 
-
+### Profile trophy stats
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=johntarus" />
 <a href="https://github.com/johntarus">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=johntarus&show_icons=true&locale=en&count_private=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="johntarus" />
