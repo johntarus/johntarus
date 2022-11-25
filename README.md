@@ -8,7 +8,7 @@
 <!--socials end-->
 
 <h2 align="center">Hello there!👋🤓</h2>
-<p align="center"> My name is John Tarus. I'm a MERN Stack Developer who is committed to collaborative problem solving, sophisticated design and writing robust, efficient, scalable code.
+<p align="center"> My name is John Tarus. I'm a Frontend Developer who is committed to collaborative problem solving, sophisticated design and writing robust, efficient, scalable code.
 I'm eager to join a creative, problem solving team. I am really passionate about Technology and software development. This has been fueled by a very curious spirit and a constant thirst for knowledge backed up with ability to learn and implement new technologies quickly</p>
 
 
@@ -24,11 +24,11 @@ I'm eager to join a creative, problem solving team. I am really passionate about
 - [useState Hook Explained](https://tarus.hashnode.dev/usestate-hook-explained)
 
 
-### Profile trophy stats
+<!-- ### Profile trophy stats
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=johntarus" />
 <a href="https://github.com/johntarus">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=johntarus&show_icons=true&locale=en&count_private=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="johntarus" />
-</a>
+</a> -->
   
  
 
