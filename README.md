@@ -8,8 +8,8 @@
 <!--socials end-->
 
 <h2 align="center">Hello there!👋🤓</h2>
-<p align="center"> My name is John Tarus. I'm a Software Developer who is committed to collaborative problem solving, sophisticated design and writing robust, efficient, scalable code.
-I'm eager to join a creative, problem solving team. I am really passionate about Technology and software development. This has been fueled by a very curious spirit and a constant thirst for knowledge backed up with ability to learn and implement new technologies quickly</p>
+<!-- <p align="center"> My name is John Tarus. I'm a Software Developer who is committed to collaborative problem solving, sophisticated design and writing robust, efficient, scalable code.
+I'm eager to join a creative, problem solving team. I am really passionate about Technology and software development. This has been fueled by a very curious spirit and a constant thirst for knowledge backed up with ability to learn and implement new technologies quickly</p> -->
 
 
 
