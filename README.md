@@ -11,9 +11,9 @@
 <!-- <p align="center"> My name is John Tarus. I'm a Software Developer who is committed to collaborative problem solving, sophisticated design and writing robust, efficient, scalable code. -->
 <!--I'm eager to join a creative, problem solving team. I am really passionate about Technology and software development. This has been fueled by a very curious spirit and a constant thirst for knowledge backed up with ability to learn and implement new technologies quickly</p> -->
 
-### 📝 Check out my latest articles!
+<!-- ### 📝 Check out my latest articles!
 - [Understanding "this" keyword in JavaScript](https://tarus.hashnode.dev/understanding-this-keyword-in-javascript)
-- [useState Hook Explained](https://tarus.hashnode.dev/usestate-hook-explained)
+- [useState Hook Explained](https://tarus.hashnode.dev/usestate-hook-explained) -->
 
 
 <!-- ### Profile trophy stats
